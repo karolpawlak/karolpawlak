@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karolpawlak
+- 👋 Hi, I’m @karolpawlak and I work as a Product Support Engineer for VMware Tanzu
 - 👀 I’m interested in expanding my programming knowledge and learning new emerging technologies.
 - 🌱 I’m currently learning Spring framework and Kubernetes.
 - 💞️ I’m looking to collaborate on any projects.
